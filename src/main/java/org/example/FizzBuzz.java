@@ -9,6 +9,7 @@ public class FizzBuzz {
         // String s = "" * number
 
         if (number % 4 == 0) {
+
             return "fizz";
         }
         return String.valueOf(number);
